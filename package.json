@@ -1,0 +1,24 @@
+{
+  "name": "porfolio-frontend-developer",
+  "version": "1.0.0",
+  "description": "sergey_panteleenko-portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/depst0r/porfolio-frontend-developer.git"
+  },
+  "author": "sergey_panteleenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/depst0r/porfolio-frontend-developer/issues"
+  },
+  "homepage": "https://github.com/depst0r/porfolio-frontend-developer#readme",
+  "devDependencies": {
+    "postcss-pxtorem": "^6.1.0",
+    "sass": "^1.93.3",
+    "vite": "^7.2.2"
+  }
+}
